@@ -1,3 +1,11 @@
+# 2024React-Next
+
+# Get git working
+Put the following in .bash_profile   
+   PATH="/usr/bin/git:$PATH"   
+Run   
+   xcode-select --install  
+   
 # 2024 React-Next Course
 https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/35882526#overview
 
