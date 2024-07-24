@@ -1,0 +1,11 @@
+Install ESlint and prettier
+Theme" One Monokai
+File Icons: Material Icons
+
+Settings (See WHeel below):
+auto save: onFocusChange
+default formatter: ...prettier
+format on save: check it
+eslint run: onSave
+
+Set up snippets with code from COurse Code/00-setup
